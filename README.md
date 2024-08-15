@@ -11,4 +11,4 @@ This is a simple offline unit converter android project developed using Andoid S
 <h2>Auther</h2>
 Ashutosh Dwibedi
 <br>
-github - @Ashutosh-Dwibedi
+github - <a href="https://github.com/Ashutosh-Dwibedi">Ashutosh-Dwibedi</a>
