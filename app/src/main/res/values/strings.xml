@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnitX</string>
+    <string name="vaid_category">Enter a valid Category!</string>
+    <string name="valid_unit">Enter a valid unit!</string>
+    <string name="invalid_input">Invalid input!</string>
+    <string name="choose_your_unit_category">Choose your unit category!</string>
+    <string name="popular_categories">POPULAR CATEGORIES!</string>
+    <string name="enter_value">Enter value</string>
+    <string name="fill_values_instruction">Fill any one of the below for conversion!</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_value_convert">Please enter value to convert!</string>
+</resources>

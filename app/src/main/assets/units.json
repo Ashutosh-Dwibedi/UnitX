@@ -1,0 +1,1809 @@
+{
+    "Length": {
+        "kilometer <=> meter": {
+            "unit1": "Kilometer",
+            "unit2": "Meter",
+            "n": 1000.0
+        },
+        "centimeter <=> meter": {
+            "unit1": "Centimeter",
+            "unit2": "Meter",
+            "n": 0.01
+        },
+        "nanometer <=> meter": {
+            "unit1": "Nanometer",
+            "unit2": "Meter",
+            "n": 0.000000001
+        },
+        "yoctometer <=> meter": {
+            "unit1": "Yoctometer",
+            "unit2": "Meter",
+            "n": 1e-24
+        },
+        "zeptometer <=> meter": {
+            "unit1": "Zeptometer",
+            "unit2": "Meter",
+            "n": 1e-21
+        },
+        "picometer <=> meter": {
+            "unit1": "Picometer",
+            "unit2": "Meter",
+            "n": 0.0
+        },
+        "angstrom <=> meter": {
+            "unit1": "Angstrom",
+            "unit2": "Meter",
+            "n": 0.0000000001
+        },
+        "astronomical unit <=> meter": {
+            "unit1": "Astronomical unit",
+            "unit2": "Meter",
+            "n": 149600000000.0
+        },
+        "femtometer <=> meter": {
+            "unit1": "Femtometer",
+            "unit2": "Meter",
+            "n": 0.0
+        },
+        "attometer <=> meter": {
+            "unit1": "Attometer",
+            "unit2": "Meter",
+            "n": 1e-18
+        },
+        "yard <=> meter": {
+            "unit1": "Yard",
+            "unit2": "Meter",
+            "n": 0.9144
+        },
+        "yard <=> inches": {
+            "unit1": "Yard",
+            "unit2": "Inches",
+            "n": 36.0
+        },
+        "yard <=> foot": {
+            "unit1": "Yard",
+            "unit2": "Foot",
+            "n": 3.0
+        },
+        "foot <=> meter": {
+            "unit1": "Foot",
+            "unit2": "Meter",
+            "n": 0.3048
+        },
+        "foot <=> centimeter": {
+            "unit1": "Foot",
+            "unit2": "Centimeter",
+            "n": 30.48
+        },
+        "foot <=> millimeter": {
+            "unit1": "Foot",
+            "unit2": "Millimeter",
+            "n": 304.8
+        },
+        "foot <=> inches": {
+            "unit1": "Foot",
+            "unit2": "Inches",
+            "n": 12.0
+        },
+        "inch <=> meter": {
+            "unit1": "Inch",
+            "unit2": "Meter",
+            "n": 0.0254
+        },
+        "inch <=> centimeter": {
+            "unit1": "Inch",
+            "unit2": "Centimeter",
+            "n": 2.54
+        },
+        "fermi <=> meter": {
+            "unit1": "Fermi",
+            "unit2": "Meter",
+            "n": 0.0
+        },
+        "mile(international) <=> meter": {
+            "unit1": "Mile(international),",
+            "unit2": "Meter",
+            "n": 1609.344
+        },
+        "mile(international) <=> foot": {
+            "unit1": "Mile(international),",
+            "unit2": "Foot",
+            "n": 5280.0
+        },
+        "mile(international) <=> yard": {
+            "unit1": "Mile(international),",
+            "unit2": "Yard",
+            "n": 1760.0
+        },
+        "mile(international) <=> chain": {
+            "unit1": "Mile(international),",
+            "unit2": "Chain",
+            "n": 80.0
+        },
+        "nautical mile <=> meter": {
+            "unit1": "Nautical mile",
+            "unit2": "Meter",
+            "n": 1852.0
+        },
+        "nautical mile <=> foot": {
+            "unit1": "Nautical mile",
+            "unit2": "Foot",
+            "n": 6080.0
+        },
+        "nautical league <=> nautical mile": {
+            "unit1": "Nautical league",
+            "unit2": "Nautical mile",
+            "n": 3.0
+        },
+        "nautical league <=> meter": {
+            "unit1": "Nautical league",
+            "unit2": "Meter",
+            "n": 5556.0
+        },
+        "micron <=> meter": {
+            "unit1": "Micron",
+            "unit2": "Meter",
+            "n": 0.000001
+        },
+        "cable length(imperial) <=> foot": {
+            "unit1": "Cable length(imperial),",
+            "unit2": "Foot",
+            "n": 608.0
+        },
+        "cable length(US) <=> foot": {
+            "unit1": "Cable length(US),",
+            "unit2": "Foot",
+            "n": 720.0
+        },
+        "cable length(international) <=> nautical mile": {
+            "unit1": "Cable length(international),",
+            "unit2": "Nautical mile",
+            "n": 0.1
+        },
+        "cable length(international) <=> meter": {
+            "unit1": "Cable length(international),",
+            "unit2": "Meter",
+            "n": 185.2
+        },
+        "fathom <=> foot": {
+            "unit1": "Fathom",
+            "unit2": "Foot",
+            "n": 6.0
+        },
+        "fathom <=> meter": {
+            "unit1": "Fathom",
+            "unit2": "Meter",
+            "n": 1.8288
+        },
+        "chain(Surveyor's) <=> foot(US)": {
+            "unit1": "Chain(Surveyor's),",
+            "unit2": "Foot(US),",
+            "n": 66.0
+        },
+        "chain(Surveyor's) <=> meter": {
+            "unit1": "Chain(Surveyor's),",
+            "unit2": "Meter",
+            "n": 20.11684
+        },
+        "link(Surveyor's) <=> foot(US)": {
+            "unit1": "Link(Surveyor's),",
+            "unit2": "Foot(US),",
+            "n": 0.66
+        },
+        "link(Surveyor's) <=> inches": {
+            "unit1": "Link(Surveyor's),",
+            "unit2": "Inches",
+            "n": 7.92
+        },
+        "link(Surveyor's) <=> Chain(Surveyor's)": {
+            "unit1": "link(Surveyor's),",
+            "unit2": "Chain(Surveyor's),",
+            "n": 0.01
+        },
+        "cubit <=> meter": {
+            "unit1": "Cubit",
+            "unit2": "Meter",
+            "n": 0.5
+        },
+        "cubit <=> inches": {
+            "unit1": "Cubit",
+            "unit2": "Inches",
+            "n": 18.0
+        },
+        "finger <=> inches": {
+            "unit1": "Finger",
+            "unit2": "Inches",
+            "n": 0.875
+        },
+        "palm <=> inches": {
+            "unit1": "Palm",
+            "unit2": "Inches",
+            "n": 3.0
+        },
+        "hand <=> inches": {
+            "unit1": "Hand",
+            "unit2": "Inches",
+            "n": 4.0
+        },
+        "furlong <=> foot": {
+            "unit1": "Furlong",
+            "unit2": "Foot",
+            "n": 660.0
+        },
+        "furlong <=> chain": {
+            "unit1": "Furlong",
+            "unit2": "Chain",
+            "n": 10.0
+        },
+        "furlong <=> yard": {
+            "unit1": "Furlong",
+            "unit2": "Yard",
+            "n": 220.0
+        },
+        "light day <=> meter": {
+            "unit1": "Light day",
+            "unit2": "Meter",
+            "n": 25902068371200.0
+        },
+        "light hour <=> meter": {
+            "unit1": "Light hour",
+            "unit2": "Meter",
+            "n": 1079252848800.0
+        },
+        "light minute <=> meter": {
+            "unit1": "Light minute",
+            "unit2": "Meter",
+            "n": 17987547480.0
+        },
+        "light second <=> meter": {
+            "unit1": "Light second",
+            "unit2": "Meter",
+            "n": 299792458.0
+        },
+        "light year <=> meter": {
+            "unit1": "Light year",
+            "unit2": "Meter",
+            "n": 9460730472580800.0
+        },
+        "mickey <=> inches": {
+            "unit1": "Mickey",
+            "unit2": "Inches",
+            "n": 0.005
+        },
+        "mickey <=> meter": {
+            "unit1": "Mickey",
+            "unit2": "Meter",
+            "n": 0.000127
+        },
+        "parsec <=> astronomical units": {
+            "unit1": "Parsec",
+            "unit2": "Astronomical Units",
+            "n": 206265.0
+        },
+        "parsec <=> meter": {
+            "unit1": "Parsec",
+            "unit2": "Meter",
+            "n": 3.085777581e16
+        },
+        "quarter <=> yard": {
+            "unit1": "Quarter",
+            "unit2": "Yard",
+            "n": 0.25
+        }
+    },
+    "Area": {
+        "acre <=> sq meter": {
+            "unit1": "Acre",
+            "unit2": "Sq meter",
+            "n": 4046.8564224
+        },
+        "acre <=> sq yard": {
+            "unit1": "Acre",
+            "unit2": "Sq yard",
+            "n": 4840.0
+        },
+        "guntha <=> acre": {
+            "unit1": "Guntha",
+            "unit2": "Acre",
+            "n": 0.025
+        },
+        "hectare <=> sq meter": {
+            "unit1": "Hectare",
+            "unit2": "Sq meter",
+            "n": 10000.0
+        },
+        "sq yard <=> sq meter": {
+            "unit1": "Sq yard",
+            "unit2": "Sq meter",
+            "n": 0.83612736
+        },
+        "sq foot <=> sq meter": {
+            "unit1": "Sq foot",
+            "unit2": "Sq meter",
+            "n": 0.09290304
+        },
+        "sq inch <=> sq meter": {
+            "unit1": "Sq inch",
+            "unit2": "Sq meter",
+            "n": 0.00064516
+        },
+        "sq kilometer <=> sq meter": {
+            "unit1": "Sq kilometer",
+            "unit2": "Sq meter",
+            "n": 1000000.0
+        },
+        "sq mile <=> sq meter": {
+            "unit1": "Sq mile",
+            "unit2": "Sq meter",
+            "n": 2589988.1103360001
+        },
+        "township <=> sq mil": {
+            "unit1": "Township",
+            "unit2": "Sq mil",
+            "n": 9.323994
+        },
+        "sq link(international) <=> foot": {
+            "unit1": "Sq link(international),",
+            "unit2": "Foot",
+            "n": 0.434873
+        },
+        "sq link(Ramsden's) <=> sq foot": {
+            "unit1": "Sq link(Ramsden's),",
+            "unit2": "Sq foot",
+            "n": 1.0
+        },
+        "circular inch <=> sq inch": {
+            "unit1": "Circular inch",
+            "unit2": "Sq inch",
+            "n": 0.785398163
+        },
+        "circular mil <=> sq mil": {
+            "unit1": "Circular mil",
+            "unit2": "Sq mil",
+            "n": 0.785398163
+        },
+        "are <=> sq meter": {
+            "unit1": "Are",
+            "unit2": "Sq meter",
+            "n": 100.0
+        },
+        "barn <=> sq meter": {
+            "unit1": "Barn",
+            "unit2": "Sq meter",
+            "n": 1e-28
+        },
+        "barony <=> acre": {
+            "unit1": "Barony",
+            "unit2": "Acre",
+            "n": 4000.0
+        },
+        "sq chain <=> acre": {
+            "unit1": "Sq chain",
+            "unit2": "Acre",
+            "n": 0.1
+        },
+        "sq mil <=> sq meter": {
+            "unit1": "Sq mil",
+            "unit2": "Sq meter",
+            "n": 0.0000000006
+        },
+        "yardland <=> acre": {
+            "unit1": "Yardland",
+            "unit2": "Acre",
+            "n": 30.0
+        },
+        "cuerda(PR Survey) <=> acre": {
+            "unit1": "Cuerda(PR Survey),",
+            "unit2": "Acre",
+            "n": 0.971222
+        },
+        "dunam <=> sq meter": {
+            "unit1": "Dunam",
+            "unit2": "Sq meter",
+            "n": 1000.0
+        },
+        "rood <=> acre": {
+            "unit1": "Rood",
+            "unit2": "Acre",
+            "n": 0.25
+        },
+        "ping <=> sq meter": {
+            "unit1": "Ping",
+            "unit2": "Sq meter",
+            "n": 3.306
+        },
+        "section <=> sq mile": {
+            "unit1": "Section",
+            "unit2": "sq mile",
+            "n": 1.0
+        },
+        "shed <=> sq meter": {
+            "unit1": "Shed",
+            "unit2": "Sq meter",
+            "n": 1e-52
+        }
+    },
+    "Volume": {
+        "acre-foot <=> cubic meter": {
+            "unit1": "Acre-foot",
+            "unit2": "Cubic meter",
+            "n": 1233.4818375475
+        },
+        "acre-inch <=> cubic meter": {
+            "unit1": "Acre foot",
+            "unit2": "Cubic meter",
+            "n": 102.790153129
+        },
+        "barrel(imp) <=> gallon(imp)": {
+            "unit1": "Barrel(imp),",
+            "unit2": "Gallon(imp),",
+            "n": 36.0
+        },
+        "barrel(imp) <=> cubic meter": {
+            "unit1": "Barrel(imp),",
+            "unit2": "Cubic meter",
+            "n": 0.16365924
+        },
+        "barrel(petroleum) <=> gallon(US)": {
+            "unit1": "Barrel(petroleum),",
+            "unit2": "Gallon(US),",
+            "n": 42.0
+        },
+        "barrel(petroleum) <=> cubic meter": {
+            "unit1": "Barrel(petroleum),",
+            "unit2": "Cubic meter",
+            "n": 0.1589872949
+        },
+        "bucket(imp) <=> gallon(imp)": {
+            "unit1": "Bucket(imp),",
+            "unit2": "Gallon(imp),",
+            "n": 4.0
+        },
+        "bushel(imp) <=> gallon(imp)": {
+            "unit1": "Bushel(imp),",
+            "unit2": "Gallon(imp),",
+            "n": 8.0
+        },
+        "cubic fathom <=> cubic meter": {
+            "unit1": "Cubic fathom",
+            "unit2": "Cubic meter",
+            "n": 6.1164388639
+        },
+        "cubic foot <=> cubic meter": {
+            "unit1": "Cubic foot",
+            "unit2": "Cubic meter",
+            "n": 0.0283168466
+        },
+        "cubic inch <=> cubic meter": {
+            "unit1": "Cubic inch",
+            "unit2": "Cubic meter",
+            "n": 0.0000163871
+        },
+        "cubic mile <=> cubic meter": {
+            "unit1": "Cubic mile",
+            "unit2": "Cubic meter",
+            "n": 4168000000.0
+        },
+        "cubic yard <=> cubic meter": {
+            "unit1": "Cubic yard",
+            "unit2": "Cubic meter",
+            "n": 0.764555
+        },
+        "cup(metric) <=> cubic meter": {
+            "unit1": "Cup(metric),",
+            "unit2": "Cubic meter",
+            "n": 0.00025
+        },
+        "dash(imperial) <=> gill(imp)": {
+            "unit1": "Dash(imperial),",
+            "unit2": "Gill(imp),",
+            "n": 0.00000037
+        },
+        "drop(imperial) <=> cubic meter": {
+            "unit1": "Drop(imperial),",
+            "unit2": "Cubic meter",
+            "n": 0.0000000987
+        },
+        "drop(metric) <=> millilitre": {
+            "unit1": "Drop(metric),",
+            "unit2": "Millilitre",
+            "n": 0.05
+        },
+        "drop(metric) <=> cubic meter": {
+            "unit1": "Drop(metric),",
+            "unit2": "Cubic meter",
+            "n": 0.00000005
+        },
+        "firkin <=> gallon": {
+            "unit1": "Firkin",
+            "unit2": "Gallon",
+            "n": 9.0
+        },
+        "gallon(imperial) <=> litre": {
+            "unit1": "Gallon(imperial),",
+            "unit2": "Litre",
+            "n": 4.54609
+        },
+        "gallon(imperial) <=> cubic meter": {
+            "unit1": "Gallon(imperial),",
+            "unit2": "Cubic meter",
+            "n": 0.00454609
+        },
+        "gill(imperial) <=> cubic meter": {
+            "unit1": "Gill(imperial),",
+            "unit2": "Cubic meter",
+            "n": 0.0001420653
+        },
+        "gill(US) <=> cubic meter": {
+            "unit1": "Gill(US),",
+            "unit2": "Cubic meter",
+            "n": 0.0001182941
+        },
+        "hogshead(imperial) <=> barrel(imp)": {
+            "unit1": "hogshead(imp),",
+            "unit2": "Barrel(imp)",
+            "n": 2.0
+        },
+        "hogshead(US) <=> barrel(US)": {
+            "unit1": "Hogshead(US),",
+            "unit2": "Barrel(US)",
+            "n": 2.0
+        },
+        "hogshead(US) <=> barrel(imp)": {
+            "unit1": "Hogshead(US),",
+            "unit2": "Barrel(imp)",
+            "n": 14.571798231007
+        },
+        "kilderkin <=> gallon(imp)": {
+            "unit1": "Kilderkin",
+            "unit2": "Gallon",
+            "n": 18.0
+        },
+        "lambda <=>cubic meter": {
+            "unit1": "Lambda",
+            "unit2": "Cubic meter",
+            "n": 0.000000001
+        },
+        "liter <=>cubic meter": {
+            "unit1": "Liter",
+            "unit2": "Cubic meter",
+            "n": 0.001
+        },
+        "ounce(fluid imp) <=> gallon": {
+            "unit1": "Ounce(fluid imp),",
+            "unit2": "Gallon",
+            "n": 0.00625
+        },
+        "ounce(US food labeling) <=> millilitre": {
+            "unit1": "Ounce(US food labeling",
+            "unit2": "Millilitre",
+            "n": 30.0
+        },
+        "peck(imp) <=> gallon": {
+            "unit1": "Pack(imp),",
+            "unit2": "Gallon",
+            "n": 2.0
+        },
+        "pinch(imp) <=> gill(imp)": {
+            "unit1": "Pinch(imp),",
+            "unit2": "Gill(imp),",
+            "n": 0.005208
+        },
+        "pint <=> gallon(imp)": {
+            "unit1": "Pint",
+            "unit2": "Gallon(imp),",
+            "n": 0.125
+        },
+        "pottle <=> gallon(imp)": {
+            "unit1": "Pottle",
+            "unit2": "Gallon(imp),",
+            "n": 0.5
+        },
+        "quart <=> gallon(imp)": {
+            "unit1": "Quart",
+            "unit2": "Gallon(imp),",
+            "n": 0.25
+        },
+        "quarter <=> barrel(imp)": {
+            "unit1": "Quarter",
+            "unit2": "Barrel(imp),",
+            "n": 8.0
+        },
+        "seam <=> barrel": {
+            "unit1": "Seam",
+            "unit2": "Barrel(imp)",
+            "n": 8.0
+        },
+        "strike(imp) <=> barrel(imp)": {
+            "unit1": "Strike(imp),",
+            "unit2": "barrel(imp),",
+            "n": 2.0
+        },
+        "timber foot <=> cubic meter": {
+            "unit1": "Timber foot",
+            "unit2": "Cubic meter",
+            "n": 0.028316846
+        },
+        "ton(displacement) <=> cubic foot": {
+            "unit1": "Ton(displacement),",
+            "unit2": "Cubic foot",
+            "n": 35.0
+        },
+        "ton(water) <=> barrel(imp)": {
+            "unit1": "Ton(water),",
+            "unit2": "Barrel(imp),",
+            "n": 28.0
+        },
+        "wey(US) <=> barrel(US)": {
+            "unit1": "Wey(US),",
+            "unit2": "Barrel(US)",
+            "n": 40.0
+        }
+    },
+    "Angle": {
+        "NATO mil <=> radian": {
+            "unit1": "NATO mil",
+            "unit2": "Radian",
+            "n": 0.000981748
+        },
+        "Swedish streak <=> radian": {
+            "unit1": "Swedish streak",
+            "unit2": "Radian",
+            "n": 0.000997302
+        },
+        "milliradian <=> radian": {
+            "unit1": "Milliradian",
+            "unit2": "Radian",
+            "n": 0.001
+        },
+        "Warsaw Pact mil <=> radian": {
+            "unit1": "Warsaw pact mil",
+            "unit2": "Radian",
+            "n": 0.001047167
+        },
+        "arcminute <=> radian": {
+            "unit1": "Arcminute",
+            "unit2": "Radian",
+            "n": 0.000290888
+        },
+        "arcsecond <=> radian": {
+            "unit1": "Arcsecond",
+            "unit2": "Radian",
+            "n": 0.0000048481
+        },
+        "degree <=> radian": {
+            "unit1": "Degree",
+            "unit2": "Radian",
+            "n": 0.017453293
+        },
+        "gradian <=> radian": {
+            "unit1": "Gradian",
+            "unit2": "Radian",
+            "n": 0.000981748
+        },
+        "gradian <=> degree": {
+            "unit1": "Gradian",
+            "unit2": "Degree",
+            "n": 0.015707963
+        },
+        "spat <=> steradian": {
+            "unit1": "Spat",
+            "unit2": "steradian",
+            "n": 12.56637
+        },
+        "square degree <=> steradian": {
+            "unit1": "Square degree",
+            "unit2": "steradian",
+            "n": 0.00030462
+        }
+    },
+    "Mass": {
+        "atomic mass of unit <=> kilogram": {
+            "unit1": "Atomic mas of unit",
+            "unit2": "Kilogram",
+            "n": 1.661e-27
+        },
+        "barge <=> short ton": {
+            "unit1": "Barge",
+            "unit2": "SHort ton",
+            "n": 22.5
+        },
+        "barge <=> kilogram": {
+            "unit1": "Barge",
+            "unit2": "Kilogram",
+            "n": 20411.65665
+        },
+        "carat(metric) <=> milligram": {
+            "unit1": "Carat(metric),",
+            "unit2": "Milligram",
+            "n": 200.0
+        },
+        "grain <=> milligram": {
+            "unit1": "Grain",
+            "unit2": "Milligram",
+            "n": 64.79891
+        },
+        "kip <=> kilogram": {
+            "unit1": "Kip",
+            "unit2": "Kilogram",
+            "n": 453.59237
+        },
+        "mite <=> gram": {
+            "unit1": "Mite",
+            "unit2": "Gram",
+            "n": 0.05
+        },
+        "ounce <=> gram": {
+            "unit1": "Ounce",
+            "unit2": "Gram",
+            "n": 28.0
+        },
+        "pennyweight <=> gram": {
+            "unit1": "Pennyweight",
+            "unit2": "Gram",
+            "n": 1.55517384
+        },
+        "pound(metric) <=> kilogram": {
+            "unit1": "Pound(metric),",
+            "unit2": "Kilogram",
+            "n": 0.453
+        },
+        "pound(metric) <=> gram": {
+            "unit1": "pound(metric),",
+            "unit2": "Gram",
+            "n": 453.0
+        },
+        "quintal <=> kilogram": {
+            "unit1": "Quintal",
+            "unit2": "Kilogram",
+            "n": 100.0
+        },
+        "slug <=> kilogram": {
+            "unit1": "Slug",
+            "unit2": "Kilogram",
+            "n": 14.593903
+        },
+        "ton(long) <=> pound": {
+            "unit1": "Ton(long),",
+            "unit2": "Pound",
+            "n": 2240.0
+        },
+        "ton(short) <=> pound": {
+            "unit1": "Ton(short),",
+            "unit2": "Pound",
+            "n": 2000.0
+        },
+        "tonne <=> kilogram": {
+            "unit1": "Tonne",
+            "unit2": "Kilogram",
+            "n": 1000.0
+        },
+        "wey <=> pound": {
+            "unit1": "Wey",
+            "unit2": "Pound",
+            "n": 252.0
+        }
+    },
+    "Time": {
+        "atomic unit of time <=> second": {
+            "unit1": "Atomic unit of time",
+            "unit2": "Second",
+            "n": 2.418884254e-17
+        },
+        "millennium <=> year": {
+            "unit1": "Millennium",
+            "unit2": "Year",
+            "n": 1000.0
+        },
+        "century <=> year": {
+            "unit1": "Century",
+            "unit2": "Year",
+            "n": 100.0
+        },
+        "century <=> decade": {
+            "unit1": "Century",
+            "unit2": "Decade",
+            "n": 10.0
+        },
+        "decade <=> year": {
+            "unit1": "Decade",
+            "unit2": "Year",
+            "n": 10.0
+        },
+        "day <=> hour": {
+            "unit1": "Day",
+            "unit2": "Hour",
+            "n": 24.0
+        },
+        "day <=> second": {
+            "unit1": "Day",
+            "unit2": "Second",
+            "n": 86400.0
+        },
+        "day <=> minute": {
+            "unit1": "Day",
+            "unit2": "Minute",
+            "n": 1440.0
+        },
+        "milliday <=> second": {
+            "unit1": "Milliday",
+            "unit2": "Second",
+            "n": 86.4
+        },
+        "hour <=> minute": {
+            "unit1": "Hour",
+            "unit2": "Minute",
+            "n": 60.0
+        },
+        "hour <=> second": {
+            "unit1": "Hour",
+            "unit2": "Second",
+            "n": 3600.0
+        },
+        "second <=> nanosecond": {
+            "unit1": "Second",
+            "unit2": "Nanosecond",
+            "n": 1000000000.0
+        },
+        "second <=> millisecond": {
+            "unit1": "Second",
+            "unit2": "Millisecond",
+            "n": 1000.0
+        },
+        "week <=> day": {
+            "unit1": "Week",
+            "unit2": "Day",
+            "n": 7.0
+        },
+        "week <=> hour": {
+            "unit1": "Week",
+            "unit2": "Hour",
+            "n": 168.0
+        },
+        "week <=> minute": {
+            "unit1": "Week",
+            "unit2": "Minute",
+            "n": 10080.0
+        },
+        "week <=> second": {
+            "unit1": "Week",
+            "unit2": "Second",
+            "n": 604800
+        },
+        "year <=> month": {
+            "unit1": "Year",
+            "unit2": "Month",
+            "n": 12.0
+        },
+        "year <=> week": {
+            "unit1": "Year",
+            "unit2": "Week",
+            "n": 52.0
+        },
+        "year <=> Day": {
+            "unit1": "Year",
+            "unit2": "Day",
+            "n": 365.0
+        },
+        "year <=> Hour": {
+            "unit1": "Year",
+            "unit2": "Hour",
+            "n": 8760.0
+        },
+        "year <=> minute": {
+            "unit1": "Year",
+            "unit2": "Minute",
+            "n": 525600.0
+        },
+        "year <=> second": {
+            "unit1": "Year",
+            "unit2": "Second",
+            "n": 31540000.0
+        },
+        "month(av) <=> day": {
+            "unit1": "Month",
+            "unit2": "Day",
+            "n": 30.0
+        },
+        "month(av) <=> week": {
+            "unit1": "Month",
+            "unit2": "Week",
+            "n": 4.34524
+        },
+        "month(av) <=> hour": {
+            "unit1": "Month",
+            "unit2": "Hour",
+            "n": 730.0
+        },
+        "month(av) <=> minute": {
+            "unit1": "Month",
+            "unit2": "Minute",
+            "n": 43800.0
+        },
+        "month(av) <=> second": {
+            "unit1": "Month",
+            "unit2": "Second",
+            "n": 2628000.0
+        },
+        "jiffy <=> second": {
+            "unit1": "Jfy",
+            "unit2": "Second",
+            "n": 0.0166667
+        },
+        "jiffy(alternative) <=> second": {
+            "unit1": "Jfy(alternative),",
+            "unit2": "Second",
+            "n": 0.01
+        },
+        "Plank time <=> second": {
+            "unit1": "Planck time",
+            "unit2": "Second",
+            "n": 5.39116e-44
+        },
+        "shake <=> nanosecond": {
+            "unit1": "Shake",
+            "unit2": "Nanosecond",
+            "n": 10.0
+        },
+        "shake <=> second": {
+            "unit1": "Shake",
+            "unit2": "Second",
+            "n": 0.00000001
+        },
+        "sigma <=> second": {
+            "unit1": "Sigma",
+            "unit2": "second",
+            "n": 0.000001
+        }
+    },
+    "Speed/Velocity": {
+        "foot/hour <=> meter/second": {
+            "unit1": "Foot/hour",
+            "unit2": "Meter/second",
+            "n": 0.0000846
+        },
+        "foot/minute <=> meter/second": {
+            "unit1": "Foot/minute",
+            "unit2": "Meter/second",
+            "n": 0.00508
+        },
+        "foot/second <=> meter/second": {
+            "unit1": "Foot/second",
+            "unit2": "Meter/second",
+            "n": 0.3048
+        },
+        "foot/hour <=> foot/minute": {
+            "unit1": "Foot/hour",
+            "unit2": "Foot/minute",
+            "n": 0.016667
+        },
+        "foot/hour <=> foot/second": {
+            "unit1": "Foot/hour",
+            "unit2": "Foot/second",
+            "n": 0.00027778
+        },
+        "foot/minute <=> foot/second": {
+            "unit1": "Foot/minute",
+            "unit2": "Foot/second",
+            "n": 0.016667
+        },
+        "inch/hour ,=> meter/second": {
+            "unit1": "Inch/hour",
+            "unit2": "Meter/second",
+            "n": 0.00000705
+        },
+        "inch/minute <=> meter/second": {
+            "unit1": "Inch/minute",
+            "unit2": "Meter/second",
+            "n": 0.000423
+        },
+        "inch/second <=> meter/second": {
+            "unit1": "Inch/second",
+            "unit2": "Meter/second",
+            "n": 0.0254
+        },
+        "inch/hour <=> inch/minute": {
+            "unit1": "Inch/hour",
+            "unit2": "Inch/minute",
+            "n": 0.016667
+        },
+        "inch/hour <=> inch/second": {
+            "unit1": "Inch/hour",
+            "unit2": "Inch/second",
+            "n": 0.00027778
+        },
+        "inch/minute <=> inch/second": {
+            "unit1": "Inch/minute",
+            "unit2": "Inch/second",
+            "n": 0.016667
+        },
+        "kilometer/hour <=> meter/second": {
+            "unit1": "Kilometer/hour",
+            "unit2": "Meter/second",
+            "n": 0.277778
+        },
+        "knot <=> meter/second": {
+            "unit1": "Knot",
+            "unit2": "Meter/second",
+            "n": 0.514444
+        },
+        "mach <=> meter/second(sea level)": {
+            "unit1": "Mach",
+            "unit2": "Meter/second(sea level),",
+            "n": 340.0
+        },
+        "mach <=> meter/second(jet attitudes)": {
+            "unit1": "Mach",
+            "unit2": "Meter/second(jet attitudes),",
+            "n": 295.0
+        },
+        "mile/hour <=> meter/second": {
+            "unit1": "Mile/hour",
+            "unit2": "Meter/second",
+            "n": 0.44704
+        },
+        "mile/minute <=> meter/second": {
+            "unit1": "Mile/minute",
+            "unit2": "Meter/second",
+            "n": 26.8224
+        },
+        "mile/second <=> meter/second": {
+            "unit1": "Mile/second",
+            "unit2": "Meter/second",
+            "n": 1609.344
+        },
+        "mile/hour <=> mile/minute": {
+            "unit1": "Mile/hour",
+            "unit2": "Mile/minute",
+            "n": 0.016667
+        },
+        "mile/hour <=> mile/second": {
+            "unit1": "Mile/hour",
+            "unit2": "Mile/second",
+            "n": 0.00027778
+        },
+        "mile/minute <=> mile/second": {
+            "unit1": "Mile/minute",
+            "unit2": "Mile/second",
+            "n": 0.016667
+        }
+    },
+    "Information Entropy(Binary)": {
+        "nibble <=> bit": {
+            "unit1": "Nibble",
+            "unit2": "Bit",
+            "n": 4.0
+        },
+        "byte <=> bit": {
+            "unit1": "Byte",
+            "unit2": "Bit",
+            "n": 8.0
+        },
+        "kilobyte(KB) <=> bit": {
+            "unit1": "Kilobyte(KB)",
+            "unit2": "Bit",
+            "n": 8192.0
+        },
+        "kilobyte(KB) <=> byte(B)": {
+            "unit1": "Kilobyte(KB)",
+            "unit2": "Byte(B)",
+            "n": 1024.0
+        },
+        "megabyte(MB) <=> kilobyte(KB)": {
+            "unit1": "Megabyte(MB)",
+            "unit2": "Kilobyte(KB)",
+            "n": 1024.0
+        },
+        "gigabyte(GB) <=> megabyte(MB)": {
+            "unit1": "Gigabyte(GB)",
+            "unit2": "Megabyte(MB)",
+            "n": 1024.0
+        },
+        "gigabyte(GB) <=> kilobyte(KB)": {
+            "unit1": "Gigabyte(GB)",
+            "unit2": "Kilobyte(KB)",
+            "n": 1048576.0
+        },
+        "terabyte(TB) <=> gigabyte(GB)": {
+            "unit1": "Terabyte(TB)",
+            "unit2": "Gigabyte(GB)",
+            "n": 1024.0
+        },
+        "terabyte(TB) <=> megabyte(MB)": {
+            "unit1": "Terabyte(TB)",
+            "unit2": "Megabyte(MB)",
+            "n": 1048576.0
+        },
+        "terabyte(TB) <=> kilobyte(KB)": {
+            "unit1": "Terabyte(TB)",
+            "unit2": "Kilobyte(KB)",
+            "n": 1073741820.0
+        }
+    },
+    "Force": {
+        "atomic unit of force <=> newton": {
+            "unit1": "Atomic unit of force",
+            "unit2": "Newton",
+            "n": 0.0000000824
+        },
+        "dyne <=> newton": {
+            "unit1": "Dyne",
+            "unit2": "Newton",
+            "n": 0.00001
+        },
+        "dynKilogram <=> newton": {
+            "unit1": "DynKilogram",
+            "unit2": "Newton",
+            "n": 9.81
+        },
+        "kip-force <=> newton": {
+            "unit1": "Kip-force",
+            "unit2": "Newton",
+            "n": 4448.0
+        },
+        "milligrave-force <=> newton": {
+            "unit1": "Milligrave-force",
+            "unit2": "Newton",
+            "n": 0.009807
+        },
+        "long ton-force <=> newton": {
+            "unit1": "Long ton-force",
+            "unit2": "Newton",
+            "n": 9964.0
+        },
+        "ounce-force <=> newton": {
+            "unit1": "Ounce-force",
+            "unit2": "Newton",
+            "n": 0.278
+        },
+        "pound-force <=> newton": {
+            "unit1": "Pound-force",
+            "unit2": "Newton",
+            "n": 4.4482
+        },
+        "poundal <=> newton": {
+            "unit1": "Newton",
+            "unit2": "Poundal",
+            "n": 7.233
+        },
+        "short ton-force <=> newton": {
+            "unit1": "Short ton-force",
+            "unit2": "Newton",
+            "n": 8896.4
+        },
+        "sthene <=> newton": {
+            "unit1": "Sthene",
+            "unit2": "Newton",
+            "n": 1000.0
+        }
+    },
+    "Temperature": {
+        "Celsius <=> Kelvin": {
+            "unit1": "Celsius",
+            "unit2": "Kelvin",
+            "n": 0.0
+        },
+        "Fahrenheit <=> Kelvin": {
+            "unit1": "Fahrenheit",
+            "unit2": "Kelvin",
+            "n": 0.0
+        },
+        "Celsius <=> Fahrenheit": {
+            "unit1": "Celcius",
+            "unit2": "Fahrenheit",
+            "n": 0.0
+        },
+        "Delisle <=> Kelvin": {
+            "unit1": "Delisle",
+            "unit2": "kelvin",
+            "n": 0.0
+        },
+        "Newton <=> Kelvin": {
+            "unit1": "Newton",
+            "unit2": "Kelvin",
+            "n": 0.0
+        },
+        "Newton <=> Celsius": {
+            "unit1": "Newton",
+            "unit2": "Celsius",
+            "n": 3.03
+        },
+        "Newton <=> Fahrenheit": {
+            "unit1": "Newton",
+            "unit2": "Fahrenheit",
+            "n": 0.0
+        },
+        "Rankine <=> Kelvin": {
+            "unit1": "Rankine",
+            "unit2": "Kelvin",
+            "n": 0.555556
+        },
+        "Rankine <=> Fahrenheit": {
+            "unit1": "Rankine",
+            "unit2": "Fahrenheit",
+            "n": -458.67
+        },
+        "Rankine <=> Celsius": {
+            "unit1": "Rankine",
+            "unit2": "Celsius",
+            "n": -272.594
+        }
+    },
+    "Density": {
+        "gram per millimeter <=> kg per cubic meter": {
+            "unit1": "Gram per millimeter",
+            "unit2": "Kg per cubic meter",
+            "n": 1000.0
+        },
+        "kg per litre <=> kg per cubic meter": {
+            "unit1": "Kg per litre",
+            "unit2": "Kg per cubic meter",
+            "n": 1000.0
+        },
+        "ounce per cubic foot <=> kg per cubic meter": {
+            "unit1": "Ounce per cubic foot",
+            "unit2": "Kg per cubic meter",
+            "n": 1.001154
+        },
+        "ounce per cubic inch <=> kg per cubic meter": {
+            "unit1": "Ounce per cubic inch",
+            "unit2": "Kg per cubic meter",
+            "n": 1730.0
+        },
+        "ounce per gallon(imp) <=> kg per cubic meter": {
+            "unit1": "Ounce per gallon(imp),",
+            "unit2": "Kg per cubic meter",
+            "n": 6.236
+        },
+        "pound per cubic foot <=> kg per cubic meter": {
+            "unit1": "Pound per cubic foot",
+            "unit2": "Kg per cubic meter",
+            "n": 16.018463
+        },
+        "pound per cubic inch <=> kg per cubic meter": {
+            "unit1": "Pound per cubic inch",
+            "unit2": "Kg per cubic meter",
+            "n": 27679.9
+        },
+        "pound per gallon(imp) <=> kg per cubic meter": {
+            "unit1": "Pound per gallon(imp),",
+            "unit2": "Kg per cubic meter",
+            "n": 99.77637266
+        },
+        "slug per cubic foot <=> kg per cubic meter": {
+            "unit1": "Slug per cubic foot",
+            "unit2": "Kg per cubic meter",
+            "n": 515.379
+        }
+    },
+    "Frequency": {
+        "cycles per second <=> hertz": {
+            "unit1": "Cycles per second",
+            "unit2": "Hertz",
+            "n": 1.0
+        },
+        "revolutions per minute <=> Radian per second": {
+            "unit1": "Revolutions per second",
+            "unit2": "Radian per second",
+            "n": 0.104719755
+        },
+        "radian per second <=> hertz": {
+            "unit1": "Radian per second",
+            "unit2": "Hertz",
+            "n": 0.159155
+        },
+        "degree per second <=> hertz": {
+            "unit1": "Degree per second",
+            "unit2": "Hertz",
+            "n": 0.00277
+        },
+        "actions per minute <=> hertz": {
+            "unit1": "Actions per second",
+            "unit2": "Hertz",
+            "n": 0.0167
+        }
+    },
+    "Acceleration": {
+        "standard gravity <=> meter/sq second": {
+            "unit1": "Standard gravity",
+            "unit2": "Meter/sq second",
+            "n": 9.81
+        },
+        "foot per hour/second <=> meter/sq second": {
+            "unit1": "Foot per hour",
+            "unit2": "Meter/sq second",
+            "n": 0.00008466
+        },
+        "foot per minute/second <=> meter/sq second": {
+            "unit1": "Foot per minute",
+            "unit2": "Meter/sq second",
+            "n": 0.00508
+        },
+        "foot per sq second <=> meter/sq second": {
+            "unit1": "Foot per second",
+            "unit2": "Meter/sq second",
+            "n": 0.3048
+        },
+        "gal <=> meter/sq second": {
+            "unit1": "Gal",
+            "unit2": "Meter/sq second",
+            "n": 0.01
+        },
+        "inch per minute/second <=> meter/sq second": {
+            "unit1": "Inch per minute/second",
+            "unit2": "Meter/sq second",
+            "n": 0.0004233
+        },
+        "inch per sq second <=> meter/sq second": {
+            "unit1": "Inch per sq second",
+            "unit2": "Meter/sq second",
+            "n": 0.0254
+        },
+        "knot per second <=> meter/second": {
+            "unit1": "Knot per second",
+            "unit2": "Meter/sq second",
+            "n": 0.5144
+        },
+        "mile per hour/second <=> meter/sq second": {
+            "unit1": "Mile per hour/second",
+            "unit2": "Meter/sq second",
+            "n": 0.44704
+        },
+        "mile per minute/second <=> meter/sq second": {
+            "unit1": "Mile per minute/second",
+            "unit2": "Meter/sq second",
+            "n": 26.8224
+        },
+        "mile per sq second <=> meter/sq second": {
+            "unit1": "Mile per sq second",
+            "unit2": "Meter/sq second",
+            "n": 1609.344
+        }
+    },
+    "Pressure": {
+        "atmosphere(standard) <=> pascal": {
+            "unit1": "Atmosphere(standard),",
+            "unit2": "Pascal",
+            "n": 101325.0
+        },
+        "bar <=> pascal": {
+            "unit1": "Bar",
+            "unit2": "Pascal",
+            "n": 98066.5
+        },
+        "atmosphere <=> bar": {
+            "unit1": "Atmosphere",
+            "unit2": "Bar",
+            "n": 1.01325
+        },
+        "barye <=> pascal": {
+            "unit1": "Barye",
+            "unit2": "Pascal",
+            "n": 0.1
+        },
+        "centimeter of mercury <=> pascal": {
+            "unit1": "Centimeter of mercury",
+            "unit2": "Pascal",
+            "n": 1333.22
+        },
+        "centimeter of mercury <=> atmosphere": {
+            "unit1": "Centimeter of mercury ",
+            "unit2": "Atmosphere",
+            "n": 75.99
+        },
+        "micrometer of mercury <=> pascal": {
+            "unit1": "Micrometer of mercury",
+            "unit2": "Pascal",
+            "n": 0.1333224
+        },
+        "millimeter of mercury <=> pascal": {
+            "unit1": "Millimeter of mercury",
+            "unit2": "Pascal",
+            "n": 133.3224
+        },
+        "kg-force per sq millimeter <=> pascal": {
+            "unit1": "Kg-force per sq millimeter",
+            "unit2": "Pascal",
+            "n": 9806650.0
+        },
+        "kip per sq inch <=> pascal": {
+            "unit1": "Kip per sq inch",
+            "unit2": "Pascal",
+            "n": 6894757.0
+        },
+        "pieze <=> pascal": {
+            "unit1": "Pieze",
+            "unit2": "Pascal",
+            "n": 1000.0
+        },
+        "pound per sq foot <=> pascal": {
+            "unit1": "Pound per sq foot",
+            "unit2": "Pascal",
+            "n": 47.88026
+        },
+        "poundal per sq foot <=> pascal": {
+            "unit1": "Poundal per sq foot",
+            "unit2": "Pascal",
+            "n": 1.488164
+        },
+        "pound per sq inch <=> pascal": {
+            "unit1": "Pound per sq inch",
+            "unit2": "Pascal",
+            "n": 6894.757
+        },
+        "torr <=> pascal": {
+            "unit1": "Torr",
+            "unit2": "Pascal",
+            "n": 133.3224
+        }
+    },
+    "Torque": {
+        "pound-force foot <=> Newton meter": {
+            "unit1": "Pound-force foot",
+            "unit2": "Newton meter",
+            "n": 1.355818
+        },
+        "poundal-ft <=> Newton meter": {
+            "unit1": "Poundal-ft",
+            "unit2": "Newton meter",
+            "n": 4.214
+        },
+        "pound-force inch <=> Newton meter": {
+            "unit1": "Pound-force inch",
+            "unit2": "Newton meter",
+            "n": 0.112985
+        },
+        "kilogram force-meter <=> Newton meter": {
+            "unit1": "Kilogram-force meter",
+            "unit2": "Newton meter",
+            "n": 9.80665
+        }
+    },
+    "Energy": {
+        "erg <=> joule": {
+            "unit1": "Erg",
+            "unit2": "Joule",
+            "n": 0.0000001
+        },
+        "electronvolt <=> joule": {
+            "unit1": "Electronvolt",
+            "unit2": "Joule",
+            "n": 1.602e-19
+        },
+        "calorie(mean) <=> joule": {
+            "unit1": "Calorie(mean),",
+            "unit2": "Joule",
+            "n": 4.1868
+        },
+        "barrel of oil equivalent <=> joule": {
+            "unit1": "Barrel of oil equivalent",
+            "unit2": "Joule",
+            "n": 0.0000000061
+        },
+        "kilocalories <=> calories": {
+            "unit1": "Kilocalories",
+            "unit2": "Calories",
+            "n": 1000.0
+        },
+        "British thermal unit <=> joule": {
+            "unit1": "British thermal unit",
+            "unit2": "Joule",
+            "n": 1054.5
+        },
+        "cubic centimeter of atmosphere <=> joule": {
+            "unit1": "Cubic centimeter of atmosphere",
+            "unit2": "Joule",
+            "n": 0.101325
+        },
+        "gallon atmosphere(imperial) <=> joule": {
+            "unit1": "Gallon atmosphere(imperial),",
+            "unit2": "Joule",
+            "n": 460.63256925
+        },
+        "kilowatt-hour <=> joule": {
+            "unit1": "Kilowatt-hour",
+            "unit2": "Joule",
+            "n": 3600000.0
+        },
+        "litre-atmosphere <=> joule": {
+            "unit1": "Litre-atmosphere",
+            "unit2": "Joule",
+            "n": 101.325
+        },
+        "thermie <=> joule": {
+            "unit1": "Thermie",
+            "unit2": "Joule",
+            "n": 4186800.0
+        },
+        "watt-hour <=> joule": {
+            "unit1": "Watt-hour",
+            "unit2": "Joule",
+            "n": 3600.0
+        },
+        "watt-second <=> joule": {
+            "unit1": "Watt-hour",
+            "unit2": "Joule",
+            "n": 1.0
+        }
+    },
+    "Power": {
+        "horsepower(boiler) <=> watt": {
+            "unit1": "Horsepower(boiler),",
+            "unit2": "Watt",
+            "n": 9809.5
+        },
+        "horsepower(electrical) <=> watt": {
+            "unit1": "Horsepower(electrical),",
+            "unit2": "Watt",
+            "n": 746.0
+        },
+        "horsepower(metric) <=> watt": {
+            "unit1": "Horsepower(metric),",
+            "unit2": "Watt",
+            "n": 735.49875
+        },
+        "BTU per hour <=> watt": {
+            "unit1": "BTU per hour",
+            "unit2": "Watt",
+            "n": 0.293071
+        },
+        "BTU per minute <=> watt": {
+            "unit1": "BTU per minute",
+            "unit2": "Watt",
+            "n": 17.584264
+        },
+        "BTU per second <=> watt": {
+            "unit1": "BTU per second",
+            "unit2": "Watt",
+            "n": 1055.056
+        },
+        "calorie per second <=> watt": {
+            "unit1": "Calories per second",
+            "unit2": "Watt",
+            "n": 4.1868
+        },
+        "lusec <=> watt": {
+            "unit1": "Lusec",
+            "unit2": "Watt",
+            "n": 0.0001333
+        },
+        "poncelet <=> watt": {
+            "unit1": "Poncelet",
+            "unit2": "Watt",
+            "n": 980.665
+        },
+        "erg per second <=> watt": {
+            "unit1": "Erg per second",
+            "unit2": "Watt",
+            "n": 0.0000001
+        },
+        "sq foot equivalent direct radiation <=> watt": {
+            "unit1": "sq foot equivalent direct radiation",
+            "unit2": "Watt",
+            "n": 70.337057
+        }
+    },
+    "Flow(Volume)": {
+        "cubic foot/minute <=> cubic meter/second": {
+            "unit1": "Cubic foot/minute",
+            "unit2": "Cubic meter/second",
+            "n": 0.0004719474
+        },
+        "cubic foot/second <=> cubic meter/second": {
+            "unit1": "Cubic foot/second",
+            "unit2": "Cubic meter/second",
+            "n": 0.0283168466
+        },
+        "cubic inch/minute <=> cubic meter/second": {
+            "unit1": "Cubic inch/minute",
+            "unit2": "Cubic meter/second",
+            "n": 0.0000002731
+        },
+        "cubic inch/second <=> cubic meter/second": {
+            "unit1": "Cubic inch/second",
+            "unit2": "Cubic meter/second",
+            "n": 0.0000001639
+        },
+        "gallon per day <=> gallon per hour": {
+            "unit1": "Gallon per day",
+            "unit2": "Gallon per hour",
+            "n": 0.0416667
+        },
+        "gallon per day <=> gallon per minute": {
+            "unit1": "Gallon per day",
+            "unit2": "Gallon per minute",
+            "n": 0.000694444
+        },
+        "gallon per hour <=> gallon per minute": {
+            "unit1": "Gallon per hour",
+            "unit2": "Gallon per minute",
+            "n": 0.0166667
+        },
+        "gallon per day <=> cubic meter/second": {
+            "unit1": "Gallon per day",
+            "unit2": "Cubic meter/second",
+            "n": 0.0000000438
+        },
+        "gallon per hour <=> cubic meter/second": {
+            "unit1": "Gallon per hour",
+            "unit2": "Cubic meter/second",
+            "n": 0.0000010515
+        },
+        "gallon per minute <=> cubic meter/second": {
+            "unit1": "Gallon per minute",
+            "unit2": "Cubic meter/second",
+            "n": 0.0000630902
+        },
+        "litre per minute <=> cubic meter/second": {
+            "unit1": "Litre per minute",
+            "unit2": "Cubic meter/second",
+            "n": 0.000016
+        }
+    },
+    "Dynamic Viscosity": {
+        "poise <=> pascal second": {
+            "unit1": "Poise",
+            "unit2": "Pascal second",
+            "n": 0.1
+        }
+    },
+    "Kinematic Viscosity": {
+        "sq foot per second <=> sq meter per second": {
+            "unit1": "Square foot per second",
+            "unit2": "Square meter per second",
+            "n": 0.09290304
+        },
+        "stokes <=> sq meter per second": {
+            "unit1": "Stokes",
+            "unit2": "Square meter per second",
+            "n": 0.0001
+        }
+    },
+    "Electric Current": {
+        "abampere(electromagnetic unit) <=> ampere": {
+            "unit1": "Abampere(electromagnetic unit),",
+            "unit2": "Ampere",
+            "n": 10.0
+        },
+        "esu per second <=> ampere": {
+            "unit1": "Esu per second",
+            "unit2": "Ampere",
+            "n": 0.0000000003
+        }
+    },
+    "Electric Charge": {
+        "abcoulomb(electromagnetic unit) <=> coulomb": {
+            "unit1": "Abcoulomb(electromagnetic unit),",
+            "unit2": "Coulomb",
+            "n": 10.0
+        },
+        "atomic unit of charge <=> coulomb": {
+            "unit1": "Atomic unit of charge",
+            "unit2": "Coulomb",
+            "n": 1.602176634e-19
+        },
+        "faraday <=> coulomb": {
+            "unit1": "Faraday",
+            "unit2": "Coulomb",
+            "n": 96485.3383
+        },
+        "milliampere hour <=> coulomb": {
+            "unit1": "Milliampere",
+            "unit2": "Coulomb",
+            "n": 3.6
+        },
+        "statcoulomb(electrostatic unit) <=> coulomb": {
+            "unit1": "Statcoulomb(electromagnetic unit),",
+            "unit2": "Coulomb",
+            "n": 0.0000000003
+        }
+    },
+    "Electric Dipole": {
+        "atomic unit of electric dipole moment <=> coulomb-meter": {
+            "unit1": "Atomic unit of electric dipole moment",
+            "unit2": "Coulomb-meter",
+            "n": 8.47835281e-30
+        },
+        "dabye <=> coulomb-meter": {
+            "unit1": "Debye",
+            "unit2": "Coulomb-meter",
+            "n": 3.33564095e-30
+        }
+    },
+    "Electromagnetic Forces": {
+        "abvolt <=> volt": {
+            "unit1": "Abvolt",
+            "unit2": "Volt",
+            "n": 0.00000001
+        },
+        "statvolt <=> volt": {
+            "unit1": "Statvolt",
+            "unit2": "Volt",
+            "n": 299.792458
+        }
+    },
+    "Magnetic Flux": {
+        "maxwell <=> weber": {
+            "unit1": "Maxwell",
+            "unit2": "Weber",
+            "n": 0.00000001
+        }
+    },
+    "Magnetic Flux Density": {
+        "gauss <=> tesla": {
+            "unit1": "Gauss",
+            "unit2": "Tesla",
+            "n": 0.0001
+        }
+    },
+    "Luminance": {
+        "candela for sq foot <=> candela per sq meter": {
+            "unit1": "Candela for sq foot",
+            "unit2": "Candela per sq meter",
+            "n": 10.763910417
+        },
+        "candela per sq inch <=> candela per sq meter": {
+            "unit1": "Candela for sq inch",
+            "unit2": "Candela per sq meter",
+            "n": 1550.0031
+        },
+        "lamnbert <=> candela per sq meter": {
+            "unit1": "Lambert",
+            "unit2": "Candela per sq meter",
+            "n": 3183.0988618
+        },
+        "footlambert <=> candela per sq meter": {
+            "unit1": "Footlambert",
+            "unit2": "Candela per sq meter",
+            "n": 3.4262590996
+        },
+        "stilb <=> candela per sq meter": {
+            "unit1": "Stilb",
+            "unit2": "Candela per sq meter",
+            "n": 10000.0
+        }
+    },
+    "Illuminance": {
+        "footcandle(lumen per sq foot) <=> lux": {
+            "unit1": "Footcandle(lumen per sq foot),",
+            "unit2": "Lux",
+            "n": 10.763910417
+        },
+        "lumen per sq inch <=> lux": {
+            "unit1": "Lumen per sq inch",
+            "unit2": "Lux",
+            "n": 1550.0031
+        },
+        "phot <=> lux": {
+            "unit1": "Phot",
+            "unit2": "Lux",
+            "n": 10000.0
+        }
+    },
+    "Radioactivity": {
+        "curie <=> becquerel": {
+            "unit1": "Curie",
+            "unit2": "Becquerel",
+            "n": 37000000000.0
+        },
+        "rutherford <=> becquerel": {
+            "unit1": "Rutherford",
+            "unit2": "Becquerel",
+            "n": 1000000.0
+        }
+    },
+    "Radiation-absorbed Dose": {
+        "gray <=> rad": {
+            "unit1": "Gray",
+            "unit2": "Rad",
+            "n": 100.0
+        }
+    },
+    "Radiation-equivalent Dose": {
+        "Rontgen equivalent man <=> sievert": {
+            "unit1": "Rontgen equivalent man",
+            "unit2": "sievert",
+            "n": 0.01
+        }
+    }
+}
