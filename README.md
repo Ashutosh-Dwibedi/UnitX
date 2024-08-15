@@ -12,3 +12,5 @@ This is a simple offline unit converter android project developed using Andoid S
 Ashutosh Dwibedi
 <br>
 github - <a href="https://github.com/Ashutosh-Dwibedi">Ashutosh-Dwibedi</a>
+<h2>LICENSE</h2>
+<a href="https://github.com/Ashutosh-Dwibedi/UnitX/blob/main/LICENSE">MIT LICENSE</a>
