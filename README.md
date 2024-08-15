@@ -1,3 +1,13 @@
-This is an anroid project which is built by using android studio.
+#UnitX
+
+This is a simple offline unit converter android project developed using Andoid Studio, Java.
 <br>
-Author - Ashutosh Dwibedi
+<h2>Features</h2>
+<ul>
+  <li>Offline</li>
+  <li>Supports 349 type of conversion in 31 different categories</li>
+  <li>No hardcoding of data, JSON dataset used!</li>
+</ul>
+<h2>Auther</h2>
+Ashutosh Dwibedi
+github - Ashutosh-Dwibedi
