@@ -1,4 +1,4 @@
-#UnitX
+<h1>UnitX</h1>
 
 This is a simple offline unit converter android project developed using Andoid Studio, Java.
 <br>
@@ -10,4 +10,5 @@ This is a simple offline unit converter android project developed using Andoid S
 </ul>
 <h2>Auther</h2>
 Ashutosh Dwibedi
-github - Ashutosh-Dwibedi
+<br>
+github - @Ashutosh-Dwibedi
