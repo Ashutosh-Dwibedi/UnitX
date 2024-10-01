@@ -12,9 +12,9 @@ This is a simple offline unit converter android project developed using Andoid S
 <img src="UnitX ss/logo_unitx.png" width="196" height="196">
 <h2>UI Screensorts</h2>
 <span>
-  <img src="UnitX ss/unitx_ss_1.png" width="198" height="440">
-  <img src="UnitX ss/unitx_ss_2.png" width="198" height="440">
-  <img src="UnitX ss/unitx_ss_3.png" width="198" height="440">
+  <img src="UnitX ss/unitx_ss_1.png" width="198" height="440" style="margin-rigjt: 1.25em">
+  <img src="UnitX ss/unitx_ss_2.png" width="198" height="440" style="margin-rigjt: 1.25em">
+  <img src="UnitX ss/unitx_ss_3.png" width="198" height="440" style="margin-rigjt: 1.25em">
   <img src="UnitX ss/unitx_ss_4.png" width="198" height="440">
 </span>
 <h2>Auther</h2>
